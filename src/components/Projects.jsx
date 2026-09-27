@@ -89,7 +89,7 @@ const ProjectCard = ({ project }) => {
               id={`code-${project.id}`}
               className={`${isLive ? '' : 'flex-1'} flex items-center justify-center gap-1.5 h-11 px-4 bg-slate-700/50 hover:bg-slate-700 text-slate-300 hover:text-white text-xs font-semibold rounded-xl border border-slate-600/40 hover:border-slate-500 transition-all duration-200`}
             >
-              <Github className="w-3.5 h-3.5" />{isLive ? '' : 'View Code'}
+              <Github className="w-3.5 h-3.5" />
               {!isLive && <span>View Code</span>}
             </a>
           )}
