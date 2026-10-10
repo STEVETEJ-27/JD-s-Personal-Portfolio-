@@ -100,7 +100,7 @@ const Navigation = () => {
           {/* Desktop Actions */}
           <div className="hidden md:flex items-center gap-3">
             <a
-              href="https://github.com/STEVETEJ-27"
+              href="https://github.com/T4x-Dev"
               target="_blank"
               rel="noopener noreferrer"
               className="text-slate-400 hover:text-white transition-colors p-2 rounded-lg hover:bg-slate-800/60"
@@ -201,7 +201,7 @@ const Navigation = () => {
         {/* Drawer footer actions */}
         <div className="px-3 pb-6 pt-3 border-t border-slate-800/60 space-y-2">
           <a
-            href="https://github.com/STEVETEJ-27"
+            href="https://github.com/T4x-Dev"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-3 w-full px-4 py-3.5 rounded-xl text-slate-400 hover:text-white hover:bg-slate-800/70 transition-all min-h-[52px]"

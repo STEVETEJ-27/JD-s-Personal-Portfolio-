@@ -26,7 +26,7 @@ const timeline = [
   {
     icon: Layers, iconColor: 'text-green-400', bar: 'from-green-500 to-teal-500',
     title: 'Open Source · GitHub',
-    org: 'github.com/STEVETEJ-27',
+    org: 'github.com/T4x-Dev',
     period: '2023 – Present',
     desc: 'All projects publicly documented with clean commits, structured repos, and READMEs.',
   },

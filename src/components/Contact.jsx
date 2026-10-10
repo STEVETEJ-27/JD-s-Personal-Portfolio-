@@ -3,8 +3,8 @@ import { Mail, Github, Linkedin, ExternalLink, FileText, MessageSquare } from 'l
 
 const contactLinks = [
   {
-    id: 'contact-github', icon: Github, label: 'GitHub', value: 'github.com/STEVETEJ-27',
-    href: 'https://github.com/STEVETEJ-27', external: true,
+    id: 'contact-github', icon: Github, label: 'GitHub', value: 'github.com/T4x-Dev',
+    href: 'https://github.com/T4x-Dev', external: true,
     color: 'hover:border-slate-500 hover:text-white', iconColor: 'text-slate-400',
   },
   {

@@ -200,12 +200,12 @@ const App = () => {
             </span>
           </p>
           <a
-            href="https://github.com/STEVETEJ-27"
+            href="https://github.com/T4x-Dev"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-cyan-400 transition-colors duration-300 font-mono"
           >
-            github.com/STEVETEJ-27
+            github.com/T4x-Dev
           </a>
         </div>
       </footer>

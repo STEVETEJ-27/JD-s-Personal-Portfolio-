@@ -148,7 +148,7 @@ const Hero = ({ scrollY }) => {
                 Resume
               </a>
               <a
-                href="https://github.com/STEVETEJ-27"
+                href="https://github.com/T4x-Dev"
                 target="_blank"
                 rel="noopener noreferrer"
                 id="hero-github"
@@ -215,7 +215,7 @@ const Hero = ({ scrollY }) => {
                 Resume
               </a>
               <a
-                href="https://github.com/STEVETEJ-27"
+                href="https://github.com/T4x-Dev"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 px-4 py-3 border border-slate-700 hover:border-slate-500 text-slate-400 hover:text-white rounded-xl transition-all duration-200 text-sm"

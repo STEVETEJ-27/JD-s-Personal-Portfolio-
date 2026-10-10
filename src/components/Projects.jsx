@@ -180,7 +180,7 @@ const Projects = () => {
         {/* GitHub CTA */}
         <div className="mt-6 sm:mt-8 text-center">
           <a
-            href="https://github.com/STEVETEJ-27"
+            href="https://github.com/T4x-Dev"
             target="_blank"
             rel="noopener noreferrer"
             id="projects-github-cta"

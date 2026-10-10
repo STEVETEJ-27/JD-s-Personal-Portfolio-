@@ -1,6 +1,6 @@
 /**
  * Project data — Kaladari Teja Swaneeth's portfolio.
- * Source: GitHub https://github.com/STEVETEJ-27
+ * Source: GitHub https://github.com/T4x-Dev
  * To add a project: add a new object below.
  * To update: find by id and edit fields.
  */
@@ -14,7 +14,7 @@ export const projects = [
     category: 'fullstack',
     categoryLabel: 'Full Stack · EdTech',
     technologies: ['HTML', 'CSS', 'JavaScript', 'Node.js'],
-    githubUrl: 'https://github.com/STEVETEJ-27/Techphilo-web-dev',
+    githubUrl: 'https://github.com/T4x-Dev/Techphilo-web-dev',
     liveUrl: 'https://techphilo.onrender.com/',
     featured: true,
     status: 'Live',
@@ -42,7 +42,7 @@ export const projects = [
     category: 'ml',
     categoryLabel: 'AI · Machine Learning · NLP',
     technologies: ['Python', 'Scikit-learn', 'NLP', 'Pandas', 'NumPy'],
-    githubUrl: 'https://github.com/STEVETEJ-27/SPAM-SHIELD---spam-Detection',
+    githubUrl: 'https://github.com/T4x-Dev/SPAM-SHIELD---spam-Detection',
     liveUrl: null,
     featured: false,
     status: 'Completed',
@@ -56,7 +56,7 @@ export const projects = [
     category: 'ml',
     categoryLabel: 'Machine Learning · Python',
     technologies: ['Python', 'Scikit-learn', 'Pandas', 'NumPy', 'Matplotlib'],
-    githubUrl: 'https://github.com/STEVETEJ-27/TAXI-FARE-PREDICTION-USING-LINEAR-REGRESSION-',
+    githubUrl: 'https://github.com/T4x-Dev/TAXI-FARE-PREDICTION-USING-LINEAR-REGRESSION-',
     liveUrl: null,
     featured: false,
     status: 'Completed',
@@ -70,7 +70,7 @@ export const projects = [
     category: 'fullstack',
     categoryLabel: 'Full Stack · Web',
     technologies: ['Python', 'Django', 'HTML', 'CSS', 'SQLite'],
-    githubUrl: 'https://github.com/STEVETEJ-27/Twitterlite-Using-Python-Django',
+    githubUrl: 'https://github.com/T4x-Dev/Twitterlite-Using-Python-Django',
     liveUrl: null,
     featured: false,
     status: 'Completed',
@@ -84,7 +84,7 @@ export const projects = [
     category: 'ml',
     categoryLabel: 'Python · Data',
     technologies: ['Python'],
-    githubUrl: 'https://github.com/STEVETEJ-27/TFISIPATPR',
+    githubUrl: 'https://github.com/T4x-Dev/TFISIPATPR',
     liveUrl: null,
     featured: false,
     status: 'Completed',
